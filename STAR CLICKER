@@ -1,0 +1,28 @@
+const upgradeData = [
+ {id:"power",name:"⭐ Сила звезды",desc:"+1 сила клика",base:50,max:100},
+ {id:"critical",name:"⚡ Критический удар",desc:"+2% шанс x2 или x10",base:150,max:25},
+ {id:"coins",name:"🪙 Денежный магнат",desc:"+2 монеты за клик",base:100,max:100},
+ {id:"luck",name:"💎 Удача",desc:"+1% шанс кристалла",base:300,max:30},
+ {id:"robot",name:"🤖 Армия роботов",desc:"+10% доход автокликера",base:250,max:50},
+ {id:"experience",name:"📈 Мудрость",desc:"+10% опыта",base:200,max:50},
+ {id:"multiplier",name:"🔥 Звёздный множитель",desc:"+10% звёзд",base:500,max:50},
+ {id:"offline",name:"🌙 Автодоход",desc:"+5% офлайн-дохода",base:400,max:20},
+
+ {id:"phoenix",name:"🔥 Огненная звезда",desc:"+20% силы клика",base:800,max:30},
+ {id:"caseLuck",name:"🍀 Мастер кейсов",desc:"+3% шанс улучшенной награды",base:1000,max:20},
+ {id:"discount",name:"🎁 Скидка кейсов",desc:"Кейсы дешевле на 2%",base:1200,max:20},
+ {id:"time",name:"⏳ Повелитель времени",desc:"+10% офлайн-дохода",base:1500,max:20},
+ {id:"royal",name:"👑 Королевская власть",desc:"+10% монет",base:2000,max:30},
+ {id:"galaxy",name:"🌌 Космическая энергия",desc:"+15% звёзд",base:2500,max:30},
+ {id:"combo",name:"💥 Комбо-мастер",desc:"+5% силы клика",base:1800,max:20},
+ {id:"jackpot",name:"🎰 Джекпот",desc:"+2% шанс большой награды",base:3000,max:20},
+ {id:"crystalPower",name:"💠 Кристальная сила",desc:"+1 дополнительный кристалл при находке",base:3500,max:20},
+ {id:"magnet",name:"🧲 Золотой магнит",desc:"+5% монет",base:2200,max:30},
+ {id:"levelBonus",name:"🏅 Легенда уровней",desc:"+25 монет за новый уровень",base:2500,max:30},
+ {id:"autoPower",name:"⚙️ Механик",desc:"+20% эффективности роботов",base:2800,max:30},
+ {id:"superClick",name:"🚀 Суперклик",desc:"+25% силы клика",base:4000,max:25},
+ {id:"treasure",name:"💰 Сокровищница",desc:"+10% монет за клик",base:4500,max:30},
+ {id:"starRain",name:"☄️ Звёздный дождь",desc:"+20% автодохода звёзд",base:5000,max:30},
+ {id:"fortune",name:"🔮 Великая удача",desc:"+2% шанс критического x10",base:6000,max:20},
+ {id:"infinity",name:"♾️ Бесконечность",desc:"+30% всех звёзд",base:10000,max:20}
+];
